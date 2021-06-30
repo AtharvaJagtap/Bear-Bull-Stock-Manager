@@ -1,1 +1,2 @@
-# Bear-Bull-Stock-Manager
+# portfolio
+website for maintaining stocks and holdings. uses firebase 
